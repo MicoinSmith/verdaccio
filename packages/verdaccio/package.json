@@ -55,10 +55,10 @@
     "@verdaccio/test-helper": "workspace:1.1.0-6-next.1",
     "fastify": "4.3.0",
     "yaml": "2.1.1",
-    "got": "11.8.5",
+    "got": "12.3.1",
     "lodash": "4.17.21",
     "node-mocks-http": "1.11.0",
-    "get-port": "5.1.1",
+    "get-port": "6.1.2",
     "nock": "13.2.9"
   },
   "keywords": [
